@@ -1,0 +1,2 @@
+# Excel-Project-Multidimensional-Business-Performance-Matrix-
+This project synthesises complex data into ten visual insights, tracking revenue, orders, and trends over twelve months. By utilising heat maps and charts, it maps customer demographics, platform preferences, and shipping efficiency. It transforms raw metrics into a strategic framework for assessing product popularity and operational health.
